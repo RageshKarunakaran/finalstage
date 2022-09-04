@@ -4536,3 +4536,8 @@ background: #fff!important;
     background: #fff;
     border-radius: 12px;
 }
+section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
+    position: relative;
+    z-index: 1;
+    background: #fff;
+}
