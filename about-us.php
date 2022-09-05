@@ -30,8 +30,6 @@
 </div>
 </section>
 
-
-
 <section id="about" class="tp-about-area service-area pt-5 pb-5 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.3s; animation-name: fadeInUp;">
    <div class="service-shapes">
             <img src="images/ser-vec1.png" alt="" class="vec1 item-animateTwo">
