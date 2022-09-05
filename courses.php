@@ -18,7 +18,7 @@
 <div class="container">
 <div class="row no-gutters slider-text align-items-center justify-content-start">
 <div class="col-md-9 pt-5 mt-5 text-left">
-<p class="breadcrumbs"><span class="me-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>Courses <i class="fa fa-chevron-right"></i></span></p>
+<p class="breadcrumbs"><span class="me-2"><a href="./">Home <i class="fa fa-chevron-right"></i></a></span> <span>Courses <i class="fa fa-chevron-right"></i></span></p>
 <h1 class="mb-0 bread">Explore Courses</h1>
 </div>
 </div>
