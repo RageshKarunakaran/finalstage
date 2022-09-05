@@ -4610,11 +4610,9 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
     margin-bottom: 35px;
 }
 .tp-about-list ul li {
-    font-size: 20px;
+   
     color: #050d36;
-    font-family: "Gordita-500";
-    font-weight: 500;
-    position: relative;
+   position: relative;
     padding-left: 50px;
     display: flex;
     align-items: center;
@@ -5163,7 +5161,7 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
   padding: 0 0px 0 0px;
 }
 .course-text-02 {
-    padding: 35px 40px 35px 40px!important;
+    padding: 35px 20px 35px 20px!important;
     position: absolute;
     top: 0;
     left: 0;
@@ -5181,6 +5179,10 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
 }
 .course-text {
     padding: 0 35px 30px 35px;
+}
+.course-text ul li{
+      color: #fff;
+    font-size: 14px;
 }
 .theme-bg {
     background: linear-gradient(45deg, #162ea7, #2aea8f);
@@ -5524,11 +5526,17 @@ input[type=text], input[type=email], input[type=password], input[type=mobile] {
     width: 100%;
 }
 
+.suitable-area{
+  background: linear-gradient(45deg, black, transparent),url(../images/banner-count.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
 
 
 .tpfea {
     padding: 40px 30px 35px;
-    background: #ffffff7a;
+    background: #fff;
     box-shadow: 5px 15px 30px rgb(5 13 54 / 6%);
     border-radius: 10px;
     margin-bottom: 1.5rem;
@@ -5586,7 +5594,9 @@ input[type=text], input[type=email], input[type=password], input[type=mobile] {
 .text-white{
   color: #fff;
 }
-
+.mr-5{
+  margin-right: 3rem;
+}
 /*Media*/
 
 @media (max-width:1000px) {
