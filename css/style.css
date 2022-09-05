@@ -4677,6 +4677,7 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
     -webkit-box-shadow: 0 7px 7px #c7c7c7;
     box-shadow: 0 7px 7px #c7c7c7;
     overflow: hidden;
+    margin-bottom: 1.5rem;
 }
 .single_course .course_head {
     position: relative;
@@ -4708,6 +4709,7 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
     -o-transition: all .3s ease 0s;
     transition: all .3s ease 0s;
     min-height: 319px;
+
 }
 .single_course:hover .price {
     background: linear-gradient(45deg, #29df91, #1842a5);;
@@ -5039,6 +5041,7 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
     transition: all 0.4s ease-out 0s;
     background: #fff;
     border-radius: 12px;
+    min-height: 470px;
 }
 .pos-rel {
     position: relative;
@@ -5527,7 +5530,7 @@ input[type=text], input[type=email], input[type=password], input[type=mobile] {
 }
 
 .suitable-area{
-  background: linear-gradient(45deg, black, transparent),url(../images/banner-count.jpg);
+  background: linear-gradient(45deg, black, #00000075),url(../images/banner-count.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -5596,6 +5599,9 @@ input[type=text], input[type=email], input[type=password], input[type=mobile] {
 }
 .mr-5{
   margin-right: 3rem;
+}
+.bg_light{
+  background: #fff;
 }
 /*Media*/
 

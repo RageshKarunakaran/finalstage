@@ -1,263 +1,9 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Edu-Med</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="../../css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
-</head>
-<body>
-<div class="top-wrap">
-<div class="container">
-<div class="row">
-<div class="col-md col-xl-12 d-flex align-items-center">
-<a class="navbar-brand align-items-center" href="index.html">
-<img src="images/edu-med Logo.png" width="150px">
-</a>
-</div>
-<!-- <div class="col-md d-flex align-items-center">
-<div class="con d-flex">
-<div class="icon"><span class="flaticon-clock"></span></div>
-<div class="text">
-<span>Monday - Friday</span>
-<strong>8:00AM-8:00PM</strong>
-</div>
-</div>
-</div> -->
-
-<div class="col-md d-flex justify-content-end align-items-center">
-    <div class="con d-flex mr-5">
-<div class="icon"><span class="flaticon-telephone"></span></div>
-<div class="text">
-<span>Call Us</span>
-<strong>+91 99621 28495</strong>
-</div>
-</div>
-<div class="social-media">
-<p class="mb-0 d-flex">
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<nav class="navbar navbar-expand-lg  ftco-navbar-light">
-<div class="container-xl">
-
-<a href="#" class="btn-custom order-lg-last">Get Certified</a>
-<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="fa fa-bars"></span> Menu
-</button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-<li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
-<li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-<li class="nav-item"><a class="nav-link" href="#courses">Courses</a></li>
-<!-- <li class="nav-item"><a class="nav-link" href="#">Syllabus </a></li> -->
-<li class="nav-item"><a class="nav-link" href="#faculty">Faculty</a></li>
-<!-- <li class="nav-item"><a class="nav-link" href="#">FAQ’S </a></li> -->
-<li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-</ul>
-</div>
-</div>
-</nav>
-<section class="hero-wrap hero-wrap-2" style="background-image:url(images/xbg_2.jpg.pagespeed.ic.rof5L3aF1A.jpg)">
-<div class="overlay"></div>
-<div class="container">
-<div class="row no-gutters slider-text align-items-center justify-content-center">
-<div class="col-md-9 pt-5 mt-5 text-center">
-<p class="breadcrumbs"><span class="me-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>Courses <i class="fa fa-chevron-right"></i></span></p>
-<h1 class="mb-0 bread">Explore Courses</h1>
-</div>
-</div>
-</div>
-</section>
-
-<section class="ftco-section">
-<div class="container-xl">
-<div class="row justify-content-center">
-<div class="col-md-8 heading-section text-center mb-5" data-aos="fade-up" data-aos-duration="1000">
-<span class="subheading">Courses</span>
-<h2 class="mb-4">Browse Our Online Courses</h2>
-</div>
-</div>
-<div class="row g-lg-2 justify-content-center">
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-design"></span></div>
-<div class="text">
-<h2>Fellowship in Cosmetic Dermatology</h2>
-<span>FCOD</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
-<div class="icon"><span class="flaticon-paint-palette"></span></div>
-<div class="text">
-<h2>Fellowship in Cosmetic LASER Medicine</h2>
-<span>FCLAM</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-computer-science"></span></div>
-<div class="text">
-<h2>Fellowship in Aesthetic Surgery </h2>
-<span>FAS</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-magnifying-glass"></span></div>
-<div class="text">
-<h2>Fellowship in Clinical Cosmetology</h2>
-<span>FCC</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-engineer"></span></div>
-<div class="text">
-<h2>Fellowship in Advanced Smile Designing</h2>
-<span>FASD</span>
-</div>
-</a>
-</div>
-
-</div>
-
-
-
-
-<div class="row g-lg-2 justify-content-center mt-5">
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-design"></span></div>
-<div class="text">
-<h2>PG Diploma in Medical Dermatology</h2>
-<span>PGDMED</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
-<div class="icon"><span class="flaticon-paint-palette"></span></div>
-<div class="text">
-<h2>PG Diploma in Skin Aesthetic Medicine</h2>
-<span>PGDSAM</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-computer-science"></span></div>
-<div class="text">
-<h2>PG Diploma in Skin LASER </h2>
-<span>PGDLASER</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-magnifying-glass"></span></div>
-<div class="text">
-<h2>PG Diploma in Aesthetic Tricology</h2>
-<span>PGDAT</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-engineer"></span></div>
-<div class="text">
-<h2>PG Diploma in Advanced Aesthetic Dentistry</h2>
-<span>PGDAAD</span>
-</div>
-</a>
-</div>
-
-</div>
-
-
-
-<div class="row g-lg-2 justify-content-center mt-5">
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-design"></span></div>
-<div class="text">
-<h2>Masters Certificate Course in Clinical Dermatology</h2>
-<span>MCCCD</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
-<div class="icon"><span class="flaticon-paint-palette"></span></div>
-<div class="text">
-<h2>Masters Course in Surgical Tricology</h2>
-<span>MCIST</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-computer-science"></span></div>
-<div class="text">
-<h2>Masters Course in Medical Micropigmentation &Microblading </h2>
-<span>MCMMM</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-magnifying-glass"></span></div>
-<div class="text">
-<h2>Masters Course in Facial Botox & Fillers</h2>
-<span>MCFBF</span>
-</div>
-</a>
-</div>
-<div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
-<div class="icon"><span class="flaticon-engineer"></span></div>
-<div class="text">
-<h2>Masters Course in Endodontics & Implantology</h2>
-<span>MCEIT</span>
-</div>
-</a>
-</div>
-
-</div>
-
-
-
-
-</div>
-</section>
-
-
-
-
-
 
 <section class="htc__appoinment__area" id="contact">
             <div class="container">
                 <div class="row justify-content-center pb-5">
 <div class="col-md-7 text-center heading-section aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000">
-<span class="subheading">Contact</span>
+<!-- <span class="subheading">Contact</span> -->
 <h2 class="mb-3">Contact Us</h2>
 </div>
 </div>
@@ -342,9 +88,9 @@
 <div class="ftco-footer-widget mb-4">
 <h2 class="ftco-heading-2">Explore</h2>
 <ul class="list-unstyled">
-<li><a href="about.html"><span class="ion ion-ios-arrow-round-forward me-2"></span>About Us</a></li>
-<li><a href="#courses"><span class="ion ion-ios-arrow-round-forward me-2"></span>Courses</a></li>
-<li><a href="#review"><span class="ion ion-ios-arrow-round-forward me-2"></span>Review</a></li>
+<li><a href="about-us.php"><span class="ion ion-ios-arrow-round-forward me-2"></span>About Us</a></li>
+<li><a href="./#courses"><span class="ion ion-ios-arrow-round-forward me-2"></span>Courses</a></li>
+<li><a href="./#review"><span class="ion ion-ios-arrow-round-forward me-2"></span>Review</a></li>
 
 </ul>
 </div>
@@ -353,9 +99,9 @@
 <div class="ftco-footer-widget mb-4">
 <h2 class="ftco-heading-2">Quick Links</h2>
 <ul class="list-unstyled">
-<li><a href="#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact Us</a></li>
+<li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact Us</a></li>
 <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Privacy</a></li>
-<li><a href="#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Feedbacks</a></li>
+<li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Feedbacks</a></li>
 </ul>
 </div>
 </div>
@@ -473,9 +219,12 @@ $('.owl-two').owlCarousel({
             items:1
         },
         600:{
-            items:2
+            items:1
         },
         1000:{
+            items:2
+        },
+        1200:{
             items:3
         }
     }
@@ -525,7 +274,7 @@ $('.owl-four').owlCarousel({
 </script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
 <script type="text/javascript">
-    gsap.to(".bubble--container", 20, {
+	gsap.to(".bubble--container", 20, {
   rotation: 360,
   transformOrigin: "left 50%",
   repeat: -1,
@@ -586,5 +335,3 @@ function handleAnimation() {
 setInterval(handleAnimation, 7000);
 
 </script>
-</body>
-</html>
