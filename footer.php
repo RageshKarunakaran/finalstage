@@ -235,9 +235,9 @@ $('.owl-three').owlCarousel({
     dots: true,
     nav:true,
     margin:10,
-    autoplay:true,
-    autoplayTimeout:3500,
-    autoplayHoverPause:true,
+    // autoplay:true,
+    // autoplayTimeout:5500,
+    // autoplayHoverPause:true,
     responsive:{
         0:{
             items:1
