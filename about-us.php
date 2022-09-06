@@ -13,13 +13,15 @@
 </head>
 <body>
 <?php include('header.php') ?>
-<section class="hero-wrap hero-wrap-2" style="background:linear-gradient(45deg, #89b4bc, #9ebbc100),url(images/xbg_2.jpg.pagespeed.ic.rof5L3aF1A.jpg);">
+<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #89b4bc, #9ebbc100),url(images/about-us-banner.png);
+    background-size: cover;
+    background-position: top;">
 <div class="overlay"></div>
 <div class="container">
 <div class="row no-gutters slider-text align-items-center justify-content-start">
 <div class="col-md-7 pt-5 mt-5 text-left">
-<p class="breadcrumbs"><span class="me-2"><a href="./">Home <i class="fa fa-chevron-right"></i></a></span> <span>About <i class="fa fa-chevron-right"></i></span></p>
-<h1 class="mb-0 bread">About Edumed</h1>
+
+<h1 class="mb-0 bread">About Edu-Med</h1>
 </div>
 
 <!-- <div class="col-md-5 pt-5 mt-5 text-center">

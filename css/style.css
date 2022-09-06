@@ -2819,7 +2819,7 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.h1,.h2,.h3,.h4,.h5 {
 }
 
 .hero-wrap .slider-text .breadcrumbs span {
-  color: rgba(255,255,255,.8);
+  color: #000;
 }
 
 .hero-wrap .slider-text .breadcrumbs span i {
@@ -2841,7 +2841,7 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.h1,.h2,.h3,.h4,.h5 {
 
 .hero-wrap .slider-text .bread {
   font-weight: 400;
-  color: #fff;
+  color: #1e386b;
   font-size: 70px;
 }
 

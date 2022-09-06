@@ -13,12 +13,14 @@
 </head>
 <body>
 <?php include('header.php') ?>
-<section class="hero-wrap hero-wrap-2" style="background-image:url(images/xbg_2.jpg.pagespeed.ic.rof5L3aF1A.jpg)">
+<section class="hero-wrap hero-wrap-2" style="background-image:url(images/courses-banner.png);
+    background-size: cover;
+    background-position: top;">
 <div class="overlay"></div>
 <div class="container">
 <div class="row no-gutters slider-text align-items-center justify-content-start">
 <div class="col-md-9 pt-5 mt-5 text-left">
-<p class="breadcrumbs"><span class="me-2"><a href="./">Home <i class="fa fa-chevron-right"></i></a></span> <span>Courses <i class="fa fa-chevron-right"></i></span></p>
+
 <h1 class="mb-0 bread">Explore Courses</h1>
 </div>
 </div>
@@ -39,7 +41,7 @@
 </div>
 <div class="row g-lg-2 justify-content-center">
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-design"></span></div>
 <div class="text">
 <h2>Fellowship in Cosmetic Dermatology</h2>
@@ -48,7 +50,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
+<a href="./#contact" class="services-2 active">
 <div class="icon"><span class="flaticon-paint-palette"></span></div>
 <div class="text">
 <h2>Fellowship in Cosmetic LASER Medicine</h2>
@@ -57,7 +59,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-computer-science"></span></div>
 <div class="text">
 <h2>Fellowship in Aesthetic Surgery </h2>
@@ -66,7 +68,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-magnifying-glass"></span></div>
 <div class="text">
 <h2>Fellowship in Clinical Cosmetology</h2>
@@ -75,7 +77,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-engineer"></span></div>
 <div class="text">
 <h2>Fellowship in Advanced Smile Designing</h2>
@@ -91,7 +93,7 @@
 
 <div class="row g-lg-2 justify-content-center mt-5">
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-design"></span></div>
 <div class="text">
 <h2>PG Diploma in Medical Dermatology</h2>
@@ -100,7 +102,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
+<a href="./#contact" class="services-2 active">
 <div class="icon"><span class="flaticon-paint-palette"></span></div>
 <div class="text">
 <h2>PG Diploma in Skin Aesthetic Medicine</h2>
@@ -109,7 +111,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-computer-science"></span></div>
 <div class="text">
 <h2>PG Diploma in Skin LASER </h2>
@@ -118,7 +120,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-magnifying-glass"></span></div>
 <div class="text">
 <h2>PG Diploma in Aesthetic Tricology</h2>
@@ -127,7 +129,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-engineer"></span></div>
 <div class="text">
 <h2>PG Diploma in Advanced Aesthetic Dentistry</h2>
@@ -142,7 +144,7 @@
 
 <div class="row g-lg-2 justify-content-center mt-5">
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-design"></span></div>
 <div class="text">
 <h2>Masters Certificate Course in Clinical Dermatology</h2>
@@ -151,7 +153,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<a href="#" class="services-2 active">
+<a href="./#contact" class="services-2 active">
 <div class="icon"><span class="flaticon-paint-palette"></span></div>
 <div class="text">
 <h2>Masters Course in Surgical Tricology</h2>
@@ -160,7 +162,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-computer-science"></span></div>
 <div class="text">
 <h2>Masters Course in Medical Micropigmentation &Microblading </h2>
@@ -169,7 +171,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-magnifying-glass"></span></div>
 <div class="text">
 <h2>Masters Course in Facial Botox & Fillers</h2>
@@ -178,7 +180,7 @@
 </a>
 </div>
 <div class="col-md-4 col-xl-3 text-center d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-<a href="#" class="services-2">
+<a href="./#contact" class="services-2">
 <div class="icon"><span class="flaticon-engineer"></span></div>
 <div class="text">
 <h2>Masters Course in Endodontics & Implantology</h2>
