@@ -13,7 +13,21 @@
 </head>
 <body>
 <?php include('header.php') ?>
+<style type="text/css">
+   canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(45deg, rgb(49 132 253 / 50%), #8cf3ce);
+}
+</style>
 <section class="hero-wrap" style="background:#89b4bc;">
+<div id="particles-js"></div>
 <div class="overlay"></div>
 <div class="container">
 <div class="row no-gutters slider-text align-items-center mt-md-top">
@@ -65,7 +79,6 @@
 </div>
 </div>
 </section>
-
 
 
 <section id="about" class="tp-about-area pt-5 pb-5 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.3s; animation-name: fadeInUp;">
@@ -1191,5 +1204,6 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
 
 
 <?php include('footer.php') ?>
+
 </body>
 </html>
