@@ -592,7 +592,7 @@ Mentor & Trainer
 
 
 
-<section class="ftco-section courses-section service-area" id="courses">
+<!-- <section class="ftco-section courses-section service-area" id="courses">
     <div class="service-shapes">
             <img src="images/ser-vec1.png" alt="" class="vec1 item-animateTwo">
             <img src="images/ser-vec2.png" alt="" class="vec2">
@@ -671,7 +671,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
 
 
 </div>
-</section>
+</section> -->
 
 
 
@@ -806,7 +806,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                <div class="row justify-content-center pb-5">
 <div class="col-md-7 text-center heading-section" data-aos="fade-up" data-aos-duration="1000">
 <span class="subheading">Our Courses</span>
-<h2 class="mb-3">Short Courses</span></h2>
+<h2 class="mb-3">Unlock Your Potential Through Our Courses</span></h2>
 </div>
 </div>
                 <div class="row">
@@ -822,19 +822,15 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                                 </div>
                                 <div class="course-text">
                                     
-                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Fellowship – 1month (Theory + 15days Hands On)</a></h4>
-                                    
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Fellowship</a></h4>
+                                    <!-- <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p> -->
                                 </div>
                             </div>
                             <div class="course-text course-text-02 theme-bg">
                                 
-                                <h4 class="semi-title mb-1"><a href="#">Fellowship – 1month (Theory + 15days Hands On)</a></h4>
+                                <h4 class="semi-title mb-1"><a href="#">Fellowship</a></h4>
                                 
-                                <ul>
-<li>Fellowship in Aesthetic Medicine &amp; Skin LASERS</li>
-<li>Fellowship in Medical Trichology (Clinical & Cosmetic)</li>
-
-                                </ul>
+                                <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p>
                                 <a class="c-btn mb-4" href="courses.php">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">
                                     <span><i class="fa fa-users"></i> <a href="#">25</a></span>
@@ -853,24 +849,14 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                                 </div>
                                 <div class="course-text">
                                     
-                                    <h4 class="semi-title pb-30 mb-2"><a href="#">PG Diploma – 6months (2 Semester)</a></h4>
-                                    
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">PG Diploma</a></h4>
+                                    <!-- <p>Learn Facial Aesthetics & reconstruction, clinical cosmetology, Medical Trichology, Hair Transplant and other Aesthetic courses through our specialised Diploma program in a period of 6 months.</p> -->
                                 </div>
                             </div>
                             <div class="course-text course-text-02 theme-bg">
                                 
-                                <h4 class="semi-title mb-1"><a href="#">PG Diploma – 6months (2 Semester)</a></h4>
-                                
-                                <ul>
-<li>PG Diploma Facial Aesthetics &amp; Reconstruction</li>
-<li>PG Diploma in Clinical Cosmetology &amp; Advance LASERS</li>
-<li>PG Diploma Medical Trichology &amp; Hair Transplant</li>
-<li>1 st  Semester: 2 Months (Theory + 15days Hands on)</li>
-<li>2 nd  Semester: 2 Months (Theory + 15days Hands on)</li>
-<li>Internship &amp; Log book – 2 Months</li>
-<li>(Lectures, Panel discussion, Live Surgery)</li>
-
-                                </ul>
+                                <h4 class="semi-title mb-1"><a href="#">PG Diploma</a></h4>
+                                <p>Learn Facial Aesthetics & reconstruction, clinical cosmetology, Medical Trichology, Hair Transplant and other Aesthetic courses through our specialised Diploma program in a period of 6 months.</p>
                                 <a class="c-btn mb-4" href="courses.php">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">
                                     <span><i class="fa fa-users"></i> <a href="#">25</a></span>
@@ -889,25 +875,16 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                                 </div>
                                 <div class="course-text">
                                     
-                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Masters - 1year (3 Semester)</a></h4>
-
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Masters Certificate</a></h4>
+                                    <!-- <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p> -->
                                     
                                 </div>
                             </div>
                             <div class="course-text course-text-02 theme-bg">
                                 
-                                <h4 class="semi-title mb-1"><a href="#">Masters - 1year (3 Semester)</a></h4>
+                                <h4 class="semi-title mb-1"><a href="#">Masters Certificate</a></h4>
                                 
-                                        <ul>
-                                        <li>Masters in Aesthetic Medicine &amp; Hair Science</li>
-                                        <li>1 st  Semester: 2 Months Theory + 15days Hands on</li>
-                                        <li>2 nd  Semester: 2 Months Theory + 15days Hands on</li>
-                                        <li>3 rd  Semester:  2 Months Theory + 15days Hands on</li>
-                                        <li>Internship + Log book - 3 Months</li>
-                                        <li>Thesis - 30days</li>
-                                        <li>(Lectures, Panel discussion & Live Surgery)</li>
-
-                                        </ul>                                
+                                        <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p>                               
                                     <a class="c-btn mb-4" href="#">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">
                                     <span><i class="fa fa-users"></i> <a href="#">25</a></span>

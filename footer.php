@@ -78,9 +78,11 @@
 </h2>
 <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
 <ul class="ftco-footer-social list-unstyled mt-2">
-<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-<li><a href="#"><span class="fa fa-facebook"></span></a></li>
-<li><a href="#"><span class="fa fa-instagram"></span></a></li>
+<li><a href="https://twitter.com/Edumedofficial"><span class="fa fa-twitter"></span></a></li>
+<li><a href="https://www.facebook.com/Edu-Med-109462011924334"><span class="fa fa-facebook"></span></a></li>
+<li><a href="https://www.instagram.com/edumedofficial/"><span class="fa fa-instagram"></span></a></li>
+<li><a href="https://www.linkedin.com/in/edu-med-037401251/"><span class="fa fa-linkedin"></span></a></li>
+
 </ul>
 </div>
 </div>
@@ -146,7 +148,7 @@
 <div class="block-23 mb-3">
 <ul>
 <li><span class="icon fa fa-map marker"></span><span class="text">3R Plaza 28, 2nd Floor, 100 Feet Road, 2A Stage, Hal, Indiranagar, Bengaluru, Karnataka 560038</span></li>
-<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+91 99621 28495</span></a></li>
+<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+18002026112</span></a></li>
 
 </ul>
 </div>
@@ -158,7 +160,7 @@
 <div class="container-xl">
 <div class="row">
 <div class="col-md-12 text-center">
-<p class="mb-0" style="font-size: 14px;">Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved  by <a href="./" target="_blank" rel="nofollow noopener">Edu-Med</a></p>
+<p class="mb-0" style="font-size: 14px;">Copyright &copy;<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved  by <a href="./" target="_blank" rel="nofollow noopener"> Edu-Med</a></p>
 </div>
 </div>
 </div>
@@ -442,5 +444,15 @@ function handleAnimation() {
 
 // changes the quote every 7 seconds
 setInterval(handleAnimation, 7000);
+
+</script>
+<script type="text/javascript">
+
+function toggleButton(){
+console.log('clicked')
+    var mybtn = document.getElementById('menu_toggle');
+    
+      mybtn.classList.toggle("show");
+}
 
 </script>

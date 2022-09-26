@@ -21,15 +21,15 @@
 <div class="icon"><span class="flaticon-telephone"></span></div>
 <div class="text">
 <span>Call Us</span>
-<strong>+91 99621 28495</strong>
+<strong>+18002026112</strong>
 </div>
 </div>
 <div class="social-media">
 <p class="mb-0 d-flex">
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+<a href="https://www.facebook.com/Edu-Med-109462011924334" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+<a href="https://twitter.com/Edumedofficial" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+<a href="https://www.instagram.com/edumedofficial/" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+<a href="https://www.linkedin.com/in/edu-med-037401251/" class="d-flex align-items-center justify-content-center"><span class="fa fa-linkedin"><i class="sr-only">LinkedIn </i></span></a>
 </p>
 </div>
 </div>
@@ -45,13 +45,42 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-<li class="nav-item"><a class="nav-link active" href="./">Home</a></li>
+<!-- <li class="nav-item"><a class="nav-link active" href="./">Home</a></li> -->
 <li class="nav-item"><a class="nav-link" href="about-us.php">About</a></li>
-<li class="nav-item"><a class="nav-link" href="./#courses">Courses</a></li>
+<li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" onclick="toggleButton();" data-bs-toggle="">Courses </a>
+      <ul class="dropdown-menu_1 hide" id="menu_toggle">
+        <li> <a class="dropdown-item" href="masters.php"> Masters </a></li>
+        <li> <a class="dropdown-item" href="pg.php"> PG Diploma </a>
+          <ul class="submenu_1 dropdown-menu_1">
+            <li><a class="dropdown-item" href="pg.php">PG Diploma Facial Aesthetics & Reconstruction</a></li>
+            <li><a class="dropdown-item" href="pg.php">PG Diploma In Clinical Cosmetology & Advance </a></li>
+            <li><a class="dropdown-item" href="pg.php">PG Diploma Medical Trichology & Hair Transplant </a></li>
+          </ul>
+        </li>
+        <li> <a class="dropdown-item" href="fellowship.php"> Fellowship </a>
+          <ul class="submenu_1 dropdown-menu_1">
+            <li><a class="dropdown-item" href="fellowship.php">Fellowship In Aesthetic Medicine & Skin Lasers</a></li>
+            <li><a class="dropdown-item" href="fellowship.php">Fellowship In Medical Trichology (Clinical & Cosmetic) </a></li>
+            </ul>
+        </li>
+    </ul>
+</li>
+
 <!-- <li class="nav-item"><a class="nav-link" href="#">Syllabus </a></li> -->
-<li class="nav-item"><a class="nav-link" href="./#faculty">Faculty</a></li>
-<!-- <li class="nav-item"><a class="nav-link" href="#">FAQ’S </a></li> -->
-<li class="nav-item"><a class="nav-link" href="./#contact">Contact</a></li>
+
+<li class="nav-item"><a class="nav-link" href="1-to-1-training.php">1 to 1 training </a></li>
+<li class="nav-item"><a class="nav-link" href="#">Internship</a></li>
+<li class="nav-item"><a class="nav-link" href="#">Accreditation & Affiliation
+</a></li>
+<li class="nav-item"><a class="nav-link" href="./#faculty">Meet the Team</a></li>
+<li class="nav-item"><a class="nav-link" href="finance.php">Finance</a></li>
+<li class="nav-item"><a class="nav-link" href="volunteer-models.php">Volunteer Models</a></li>
+
+
+
+
+<!-- <li class="nav-item"><a class="nav-link" href="./#contact">Contact</a></li> -->
 </ul>
 </div>
 </div>
