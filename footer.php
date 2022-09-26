@@ -148,7 +148,7 @@
 <div class="block-23 mb-3">
 <ul>
 <li><span class="icon fa fa-map marker"></span><span class="text">3R Plaza 28, 2nd Floor, 100 Feet Road, 2A Stage, Hal, Indiranagar, Bengaluru, Karnataka 560038</span></li>
-<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+18002026112</span></a></li>
+<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">18002026112</span></a></li>
 
 </ul>
 </div>

@@ -813,25 +813,27 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
 
 <div class="col-xl-12 col-lg-12 col-md-12">
 	<div class="owl-two owl-carousel owl-theme">
+    
     <div class="item">
-    		<div class="course-wrapper white-bg mb-30">
+ <div class="course-wrapper white-bg mb-30">
                             <div class="course-inner">
                                 <div class="course-img pos-rel mb-25">
-                                    <a href="#"><img src="images/f1.png" alt=""></a>
+                                    <a href="#"><img src="images/f3.png" alt=""></a>
                                     
                                 </div>
                                 <div class="course-text">
                                     
-                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Fellowship</a></h4>
-                                    <!-- <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p> -->
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Masters Certificate</a></h4>
+                                    <!-- <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p> -->
+                                    
                                 </div>
                             </div>
                             <div class="course-text course-text-02 theme-bg">
                                 
-                                <h4 class="semi-title mb-1"><a href="#">Fellowship</a></h4>
+                                <h4 class="semi-title mb-1"><a href="#">Masters Certificate</a></h4>
                                 
-                                <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p>
-                                <a class="c-btn mb-4" href="courses.php">get enrolled <i class="fa fa-arrow-right"></i></a>
+                                        <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p>                               
+                                    <a class="c-btn mb-4" href="#">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">
                                     <span><i class="fa fa-users"></i> <a href="#">25</a></span>
                                     <span><i class="fa fa-book"></i> <a href="#">36hr</a></span>
@@ -866,26 +868,26 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                             </div>
                         </div>
     </div>
-    <div class="item">
- <div class="course-wrapper white-bg mb-30">
+    
+<div class="item">
+         <div class="course-wrapper white-bg mb-30">
                             <div class="course-inner">
                                 <div class="course-img pos-rel mb-25">
-                                    <a href="#"><img src="images/f3.png" alt=""></a>
+                                    <a href="#"><img src="images/f1.png" alt=""></a>
                                     
                                 </div>
                                 <div class="course-text">
                                     
-                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Masters Certificate</a></h4>
-                                    <!-- <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p> -->
-                                    
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Fellowship</a></h4>
+                                    <!-- <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p> -->
                                 </div>
                             </div>
                             <div class="course-text course-text-02 theme-bg">
                                 
-                                <h4 class="semi-title mb-1"><a href="#">Masters Certificate</a></h4>
+                                <h4 class="semi-title mb-1"><a href="#">Fellowship</a></h4>
                                 
-                                        <p>Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lectures, Panel Discussions and Live surgeries in a year.</p>                               
-                                    <a class="c-btn mb-4" href="#">get enrolled <i class="fa fa-arrow-right"></i></a>
+                                <p>Learn Aesthetic medicine & skin lasers and Medical Trichology in Clinical and cosmetic care with our Fellowship programs. The fellowship program consists of 15 days of theory and 15 days of hands-on training.</p>
+                                <a class="c-btn mb-4" href="courses.php">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">
                                     <span><i class="fa fa-users"></i> <a href="#">25</a></span>
                                     <span><i class="fa fa-book"></i> <a href="#">36hr</a></span>
@@ -894,7 +896,6 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                             </div>
                         </div>
     </div>
-
     <div class="item">
  <div class="course-wrapper white-bg mb-30">
                             <div class="course-inner">
@@ -914,11 +915,12 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                                 
                                 <h4 class="semi-title mb-1"><a href="#">Certificate Courses</a></h4>
        <ul>                         
-<li>Certificate in Trichology</li>
-<li>Certificate in Botox, Fillers &amp; Threads</li>
-<li>Certificate in Anti-Aging &amp; Skinceuticals</li>
-<li>Certificate in Micro-blading &amp; Micro-Needling</li>
-<li>Certificate in Skin LASERS</li>
+<li>Certificate in Trichology </li>
+<li>Certificate in Botox, Fillers & Threads </li>
+<li>Certificate in Anti-Aging & Skinceuticals </li>
+<li>Certificate in Micro-blading & Micro-Needling </li>
+<li>Certificate in Skin LASERS </li>
+
 </ul>
                                     <a class="c-btn mb-4" href="#">get enrolled <i class="fa fa-arrow-right"></i></a>
                                 <!-- <div class="course-meta">

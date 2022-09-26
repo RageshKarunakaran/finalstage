@@ -21,7 +21,7 @@
 <div class="icon"><span class="flaticon-telephone"></span></div>
 <div class="text">
 <span>Call Us</span>
-<strong>+18002026112</strong>
+<strong>18002026112</strong>
 </div>
 </div>
 <div class="social-media">
@@ -39,18 +39,22 @@
 <nav class="navbar navbar-expand-lg  ftco-navbar-light">
 <div class="container-xl">
 
-<a href="./#contact" class="btn-custom order-lg-last">Get Certified</a>
+<a href="./#contact" class="btn-custom order-lg-last">Login</a>
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="fa fa-bars"></span> Menu
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-<!-- <li class="nav-item"><a class="nav-link active" href="./">Home</a></li> -->
+<li class="nav-item"><a class="nav-link active" href="./">Home</a></li>
 <li class="nav-item"><a class="nav-link" href="about-us.php">About</a></li>
 <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" onclick="toggleButton();" data-bs-toggle="">Courses </a>
       <ul class="dropdown-menu_1 hide" id="menu_toggle">
-        <li> <a class="dropdown-item" href="masters.php"> Masters </a></li>
+        <li> <a class="dropdown-item" href="masters.php"> Masters </a>
+        <ul class="submenu_1 dropdown-menu_1">
+            <li><a class="dropdown-item" href="masters.php">Masters In Aesthetic Medicine & Hair Science</a></li>
+            
+          </ul></li>
         <li> <a class="dropdown-item" href="pg.php"> PG Diploma </a>
           <ul class="submenu_1 dropdown-menu_1">
             <li><a class="dropdown-item" href="pg.php">PG Diploma Facial Aesthetics & Reconstruction</a></li>
@@ -64,6 +68,15 @@
             <li><a class="dropdown-item" href="fellowship.php">Fellowship In Medical Trichology (Clinical & Cosmetic) </a></li>
             </ul>
         </li>
+        <li> <a class="dropdown-item" href="certificate.php"> Certificate Courses </a>
+          <ul class="submenu_1 dropdown-menu_1">
+            <li><a class="dropdown-item" href="certificate.php">Certificate in Trichology </a></li>
+            <li><a class="dropdown-item" href="certificate.php">Certificate in Botox, Fillers & Threads </a></li>
+            <li><a class="dropdown-item" href="certificate.php">Certificate in Anti-Aging & Skinceuticals </a></li>
+            <li><a class="dropdown-item" href="certificate.php">Certificate in Micro-blading & Micro-Needling </a></li>
+            <li><a class="dropdown-item" href="certificate.php">Certificate in Skin LASERS</li></a></li>
+            </ul>
+        </li>
     </ul>
 </li>
 
@@ -73,7 +86,7 @@
 <li class="nav-item"><a class="nav-link" href="#">Internship</a></li>
 <li class="nav-item"><a class="nav-link" href="#">Accreditation & Affiliation
 </a></li>
-<li class="nav-item"><a class="nav-link" href="./#faculty">Meet the Team</a></li>
+<li class="nav-item"><a class="nav-link" href="./#faculty">Our Team</a></li>
 <li class="nav-item"><a class="nav-link" href="finance.php">Finance</a></li>
 <li class="nav-item"><a class="nav-link" href="volunteer-models.php">Volunteer Models</a></li>
 
