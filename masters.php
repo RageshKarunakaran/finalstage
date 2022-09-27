@@ -57,13 +57,6 @@
 <p>Thesis - 30days</p>
 <p>(Lectures, Panel discussion &amp; Live Surgery)</p>
 
-<h5>MASTERS IN AESTHETIC MEDICINE &amp; HAIR SCIENCE</h5>
-<p>SEM I - 2mnths Theory &amp; 15days Hands on</p>
-<p>SEM I I - 2mnths Theory &amp; 15days Hands on</p>
-<p>SEM III - 2mnths Theory &amp; 15days Hands on</p>
-<p>Thesis - 20days</p>
-<p>Internship - 3Mnths</p>
-
 <h4>SEM I</h4>
 <p><strong>INTRODUCTION</strong></p>
 <ul class="listout">

@@ -21,7 +21,7 @@
 <div class="icon"><span class="flaticon-telephone"></span></div>
 <div class="text">
 <span>Call Us</span>
-<strong>18002026112</strong>
+<strong>1800 202 6112</strong>
 </div>
 </div>
 <div class="social-media">
@@ -48,8 +48,8 @@
 <li class="nav-item"><a class="nav-link active" href="./">Home</a></li>
 <li class="nav-item"><a class="nav-link" href="about-us.php">About</a></li>
 <li class="nav-item dropdown">
-      <a class="nav-link dropdown-toggle" onclick="toggleButton();" data-bs-toggle="">Courses </a>
-      <ul class="dropdown-menu_1 hide" id="menu_toggle">
+      <a class="nav-link" onmouseover="toggleButtonOne();" data-bs-toggle="">Courses </a>
+      <ul class="dropdown-menu_1 hide" id="menu_toggle_one">
         <li> <a class="dropdown-item" href="masters.php"> Masters </a>
         <ul class="submenu_1 dropdown-menu_1">
             <li><a class="dropdown-item" href="masters.php">Masters In Aesthetic Medicine & Hair Science</a></li>
@@ -82,13 +82,21 @@
 
 <!-- <li class="nav-item"><a class="nav-link" href="#">Syllabus </a></li> -->
 
-<li class="nav-item"><a class="nav-link" href="1-to-1-training.php">1 to 1 training </a></li>
-<li class="nav-item"><a class="nav-link" href="#">Internship</a></li>
+<li class="nav-item"><a class="nav-link" href="1-to-1-training.php">Private Training </a></li>
+<li class="nav-item dropdown">
+      <a class="nav-link" onmouseover="toggleButtonTwo();" data-bs-toggle="">Internship </a>
+      <ul class="dropdown-menu_1 hide" id="menu_toggle_two">
+        <li> <a class="dropdown-item" href="#"> National </a></li>
+        <li> <a class="dropdown-item" href="#"> InterNational </a></li>
+
+        </ul>
+      </li>
 <li class="nav-item"><a class="nav-link" href="#">Accreditation & Affiliation
 </a></li>
 <li class="nav-item"><a class="nav-link" href="./#faculty">Our Team</a></li>
 <li class="nav-item"><a class="nav-link" href="finance.php">Finance</a></li>
 <li class="nav-item"><a class="nav-link" href="volunteer-models.php">Volunteer Models</a></li>
+<li class="nav-item"><a class="nav-link" href="#">Membership</a></li>
 
 
 

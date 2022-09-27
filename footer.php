@@ -104,6 +104,8 @@
 <li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact Us</a></li>
 <li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Privacy</a></li>
 <li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Feedbacks</a></li>
+<li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Blog</a></li>
+
 </ul>
 </div>
 </div>
@@ -148,7 +150,7 @@
 <div class="block-23 mb-3">
 <ul>
 <li><span class="icon fa fa-map marker"></span><span class="text">3R Plaza 28, 2nd Floor, 100 Feet Road, 2A Stage, Hal, Indiranagar, Bengaluru, Karnataka 560038</span></li>
-<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">18002026112</span></a></li>
+<li><a href="#"><span class="icon fa fa-phone"></span><span class="text">1800 202 6112</span></a></li>
 
 </ul>
 </div>
@@ -346,9 +348,9 @@ $('.owl-three').owlCarousel({
     dots: true,
     nav:true,
     margin:10,
-    // autoplay:true,
-    // autoplayTimeout:5500,
-    // autoplayHoverPause:true,
+    autoplay:true,
+    autoplayTimeout:3000,
+    autoplayHoverPause:true,
     responsive:{
         0:{
             items:1
@@ -448,11 +450,17 @@ setInterval(handleAnimation, 7000);
 </script>
 <script type="text/javascript">
 
-function toggleButton(){
-console.log('clicked')
-    var mybtn = document.getElementById('menu_toggle');
+function toggleButtonOne(){
+    var mybtn = document.getElementById('menu_toggle_one');
     
       mybtn.classList.toggle("show");
 }
 
+</script>
+<script type="text/javascript">
+    function toggleButtonTwo(){
+    var mybtntwo = document.getElementById('menu_toggle_two');
+    
+      mybtntwo.classList.toggle("show");
+}
 </script>

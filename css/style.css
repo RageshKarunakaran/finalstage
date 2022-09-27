@@ -2590,13 +2590,13 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.h1,.h2,.h3,.h4,.h5 {
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
-  font-size: 15px;
-  padding-top: 1.4rem;
-  padding-bottom: 1.4rem;
-  padding-left: 17px;
-  padding-right: 17px;
-  color: rgba(255,255,255,.9);
-  font-weight: 500;
+font-size: 14px;
+    padding-top: 1.4rem;
+    padding-bottom: 1.4rem;
+    padding-left: 12px;
+    padding-right: 12px;
+    color: rgba(255,255,255,.9);
+    font-weight: 500;
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link span {
@@ -5650,10 +5650,19 @@ input[type=text], input[type=email], input[type=password], input[type=mobile] {
 .show{
   display: block;
 }
-ul#menu_toggle {
+ul#menu_toggle_one {
     position: absolute;
 }
-ul#menu_toggle {
+ul#menu_toggle_one {
+    list-style-type: none;
+    background: #fefdfd;
+    padding: 0;
+    border-radius: 12px;
+}
+ul#menu_toggle_two {
+    position: absolute;
+}
+ul#menu_toggle_two {
     list-style-type: none;
     background: #fefdfd;
     padding: 0;

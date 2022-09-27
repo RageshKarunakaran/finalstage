@@ -48,14 +48,30 @@
 <h2 class="mb-2">Volunteer Models </h2>
 </div>
 
-<p>Models are necessary for our training in hair restoration and transplant.</p>
-
-
-<p>Our hair restoration transplant training follows the EduMed approach and is created for healthcare professionals with medical degree, such as fully licenced doctors. These classes are under the supervision of our EduMed cosmetic transplant surgeons, who know you will be in good hands during the procedure. Not to mention the significant financial advantages of modelling.</p>
-
-
-<p>You will first receive a quick consultation to go over the best course of action for your particular situation. After which, we shall determine which service is ideal for you.</p>
-
+<p>Considering aesthetic treatments but worried about the cost? At Edumed we know that quality  treatments can become expensive, but if you want a rejuvenated youthful appearance, help is at hand!</p>
+<p>Edumed is for medical health care professionals and aesthetic practitioners only, so you can be at utmost peace if you decide to become a model(volunteer patient) for treatments on any of our courses, the most experienced Doctors, Nurses and Dentists only will be administering your treatments</p>
+<p>Edumed trainers are some of global leading aesthetic doctors who actively run their own aesthetic clinics and are highly experienced. Trainees are closely monitored by trainers at all times in a safe and relaxing environment and we offer post-treatment after-care for our models too.</p>
+<p><strong>Currently we are looking out for volunteer models for the following services </strong></p>
+<ul>
+<li>Botulinum Toxin</li>
+<li>Derma Fillers</li>
+<li>Lip Fillers</li>
+<li>Face lift – Threads</li>
+<li>Micro-blading</li>
+<li>Micro-pigmentation</li>
+<li>Skin LASERS</li>
+<li>LASER Therapy for Hair</li>
+<li>Chemical Peelings</li>
+<li>PRP for face & Hair</li>
+<li>Mesotherphy for Face & Hair</li>
+<li>Body contouring & Tightening</li>
+<li>Face contouring</li>
+<li>Cool Sculpting</li>
+<li>Lipolytic injectables</li>
+<li>Skin Tightening </li>
+<li>kin Rejuvvenation</li>
+<li>Tattoo/Mole Removal</li>
+</ul>
 
                      </div>
                     
@@ -73,7 +89,7 @@
       <div class="col-md-8 col-sm-12 col-xs-12 cta-rewamped-texter">
          <h4>READY TO APPLY?
          </h4>
-         <p>CLICK ON THE BUTTON TO FILL OUT EDUMED’S MODEL APPLICATION FORM  - APPLY NOW</p>
+         <p>CLICK ON THE BUTTON TO FILL OUT EDUMED’S MODEL APPLICATION FORM </p>
           
            
       </div>
