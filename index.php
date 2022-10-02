@@ -228,15 +228,139 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
 <h2 class="mb-3">Our Educators</span></h2>
 </div>
 </div>
-        <div class="row">
+        <div class="row mt-5">
 
 <div class="col-xl-12 col-lg-12 col-md-12">
     <div class="owl-three owl-carousel owl-theme">
 
-<div class="item">
 
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-4">
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/4.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr.Surindher D.S.A</a></h4>
+                           <span>Consultant Plastic Surgeon</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/5.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere Paolo Rovatti</a></h4>
+                           <span>Plastic Surgeon</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/6.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Nathalie Domloj</a></h4>
+                           <span>Aesthetic Dermatologist</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/7.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Poonam Patel</a></h4>
+                           <span>M.B.E.H Cosmetologist, Trichologist</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/8.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Hala Salah Giha</a></h4>
+                           <span>Plastic Surgeon</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+            </div>
+<div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -260,7 +384,9 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+             <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -285,7 +411,9 @@ Chief Aesthetic Physician
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+              <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -310,131 +438,9 @@ Chief Aesthetic Physician
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/4.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr.Surindher D.S.A</a></h4>
-                           <span>Consultant Plastic Surgeon</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/5.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere Paolo Rovatti</a></h4>
-                           <span>Plastic Surgeon</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/6.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Nathalie Domloj</a></h4>
-                           <span>Aesthetic Dermatologist</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/7.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Poonam Patel</a></h4>
-                           <span>M.B.E.H Cosmetologist, Trichologist</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/8.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Hala Salah Giha</a></h4>
-                           <span>Plastic Surgeon</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-            </div>
-
-    </div>
-
-
-
-    <div class="item">
-
-            <div class="row">
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+<div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -457,7 +463,9 @@ Chief Aesthetic Physician
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -483,7 +491,9 @@ Mentor & Trainer
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -506,55 +516,10 @@ Mentor & Trainer
                      </div>
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/12.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Shuba Dharmana</a></h4>
-                           <span>Aesthetic Doctor (AAAM certified), Hair Transplant Surgeon
-</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
-                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
-                     <div class="tp-instructor text-center p-relative mb-4">
-                        <div class="tp-instructor__thumb mb-25">
-                           <img src="images/13.png" alt="instructor-profile">
-                        </div>
-                        <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Muzammil Nawaz</a></h4>
-                           <span>Aesthetic Doctor & Trainer<br> Dental Surgeon
-</span>
-                           
-                          
-                           <div class="tp-instructor__social">
-                              <ul>
-                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                              </ul>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-3 col-md-4">
+             </div>
+                
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
                     <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
                      <div class="tp-instructor text-center p-relative mb-4">
                         <div class="tp-instructor__thumb mb-25">
@@ -580,12 +545,62 @@ Mentor & Trainer
                 
                 
             </div>
-
+<div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/12.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Shuba Dharmana</a></h4>
+                           <span>Aesthetic Doctor (AAAM certified), Hair Transplant Surgeon
+</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
+                <div class="item">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="tp-instruc-item wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInUp;">
+                     <div class="tp-instructor text-center p-relative mb-4">
+                        <div class="tp-instructor__thumb mb-25">
+                           <img src="images/13.png" alt="instructor-profile">
+                        </div>
+                        <div class="tp-instructor__content">
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Muzammil Nawaz</a></h4>
+                           <span>Aesthetic Doctor & Trainer<br> Dental Surgeon
+</span>
+                           
+                          
+                           <div class="tp-instructor__social">
+                              <ul>
+                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
+             </div>
     </div>
 </div>
     </div>
-    </div>
-</div>
+   
 </section>
 
 
@@ -788,15 +803,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
             </div>
          </div>
       </section> -->
-
-
-
-
-
-
-
-
-
+         
 <div class="course-area black-bg ftco-section" id="faculty">
     <div class="service-shapes">
             <img src="images/gallery-vec.png" alt="" class="vec1 item-animateTwo">

@@ -14,7 +14,7 @@
 </head>
 <body>
 <?php include('header.php') ?>
-<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100),url(images/about-us-banner.png);
+<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100),url(images/new/03.jpg);
     background-size: cover;
     background-position: top;">
 <div class="overlay"></div>
@@ -55,60 +55,38 @@
 
 <p>You provide your consent for your information to be transferred to our funding partners by entering the form below. Our financial partners will then get in touch with you regarding this finance application.</p>
 
-<div class="loan_form">
+<div class="form-modal">
 
-<div class="row justify-content-center align-items-center mt-5">
-
-                                                <div class="col-xl-7 col-lg-7 col-md-6">
-                        
-                        <div class="htc__appoinment__wrap">
-                            <div class="htc__appoinment__form">
-                                <form action="#">
-                                 <div class="htc__app__box__inner">
-                                        <div class="htc__app__box">
-                                            <input type="number" placeholder="Loan Amount">
-                                        </div>
-                                        <div class="htc__app__box psy__calendar">
-                                            <input type="number" placeholder="Loan Term">
-                                        </div>
-                                    </div> 
-                                    <div class="htc__app__box__inner">
-                                        <div class="htc__app__box message">
-                                           <textarea name="Message" placeholder="Type Additional Message"></textarea>
-                                        </div>
-                                    </div> 
-                                    <div class="htc__app__box__inner">
-                                        <div class="htc__app__box">
-                                            <input type="text" placeholder="Name">
-                                        </div>
-                                        <div class="htc__app__box psy__calendar">
-                                            <input type="mobile" placeholder="Contact Number">
-                                        </div>
-                                    </div> 
-                                    <div class="htc__app__box__inner">
-                                        <div class="htc__app__box">
-                                            <input type="email" placeholder="Email Address">
-                                        </div>
-                                        <div class="htc__app__box psy__calendar">
-                                            <input type="pincode" name="Pincode">
-                                        </div>
-                                    </div> 
-                                    
-                                    <div class="appoinment_message">
-                                        <!-- <div class="htc__app__box message">
-                                           <textarea name="Message" placeholder="Type Additional Message"></textarea>
-                                        </div> -->
-                                        <div class="ht__appoin__btn">
-                                            <button type="submit">Send Request</button>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>                            
-                        </div>      
-                                    
+<form>
+            <div class="row">
+                        <div class="col-md-6">
+                            <input type="text" class="input-field" placeholder="Loan Amount" required>
+                        </div>
+                        <div class="col-md-6">
+                             <input type="number" class="input-field" placeholder="Loan Term" required>
+                        </div>
                     </div>
-                    
-                </div>
+                   
+                    <div class="row">
+                        <div class="col-md-12">
+                            <textarea placeholder="Address"></textarea>
+                        </div>
+                       
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <input type="number" class="input-field" placeholder="Phone" required>
+                        </div>
+                        <div class="col-md-6">
+                             <input type="email" class="input-field" placeholder="Email" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <button type="button" class="btn signup">Submit</button>
+                    </div>
+            <hr/>
+           
+        </form>
 
 </div>
 
@@ -117,6 +95,72 @@
                   </div>
                </div>
                
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col-md-12">
+                    <div class="owl-five owl-carousel owl-theme">
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/sbi.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Mpower Financing.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Leap Finance.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Axis.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/HDFC Credila.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Bank of Baroda.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Prodigy.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Incred.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/ICICI.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Canera.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Auxilo.png">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="support_slide">
+                                    <img src="images/new/Avanse.png">
+                                </div>
+                            </div>
+                    </div>
+                </div>
             </div>
          </div>
       </section>

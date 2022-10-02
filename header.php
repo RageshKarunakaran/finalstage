@@ -39,7 +39,7 @@
 <nav class="navbar navbar-expand-lg  ftco-navbar-light">
 <div class="container-xl">
 
-<a href="./#contact" class="btn-custom order-lg-last">Login</a>
+<!-- <a href="./#contact" class="btn-custom order-lg-last">Login</a> -->
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="fa fa-bars"></span> Menu
 </button>
@@ -82,23 +82,31 @@
 
 <!-- <li class="nav-item"><a class="nav-link" href="#">Syllabus </a></li> -->
 
-<li class="nav-item"><a class="nav-link" href="1-to-1-training.php">Private Training </a></li>
+<li class="nav-item"><a class="nav-link" href="1-to-1-training.php">Exclusive Training
+</a></li>
 <li class="nav-item dropdown">
       <a class="nav-link" onmouseover="toggleButtonTwo();" data-bs-toggle="">Internship </a>
       <ul class="dropdown-menu_1 hide" id="menu_toggle_two">
-        <li> <a class="dropdown-item" href="#"> National </a></li>
-        <li> <a class="dropdown-item" href="#"> InterNational </a></li>
+        <li> <a class="dropdown-item" href="national.php"> National </a></li>
+        <li> <a class="dropdown-item" href="interNational.php"> InterNational </a></li>
 
         </ul>
       </li>
-<li class="nav-item"><a class="nav-link" href="#">Accreditation & Affiliation
+<li class="nav-item"><a class="nav-link" href="accreditation.php">Accreditation & Affiliation
 </a></li>
-<li class="nav-item"><a class="nav-link" href="./#faculty">Our Team</a></li>
+<li class="nav-item"><a class="nav-link" href="./#faculty">Team</a></li>
 <li class="nav-item"><a class="nav-link" href="finance.php">Finance</a></li>
 <li class="nav-item"><a class="nav-link" href="volunteer-models.php">Volunteer Models</a></li>
 <li class="nav-item"><a class="nav-link" href="#">Membership</a></li>
 
+<li class="nav-item dropdown">
+      <a class="nav-link" onmouseover="toggleButtonThree();" data-bs-toggle="">Login </a>
+      <ul class="dropdown-menu_1 hide" id="menu_toggle_three">
+        <li> <a class="dropdown-item" href="member.php"> Membership  </a></li>
+        <li> <a class="dropdown-item" href="certificate.php"> Download Certificate   </a></li>
 
+        </ul>
+      </li>
 
 
 <!-- <li class="nav-item"><a class="nav-link" href="./#contact">Contact</a></li> -->

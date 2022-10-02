@@ -13,7 +13,7 @@
 </head>
 <body>
 <?php include('header.php') ?>
-<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100),url(images/about-us-banner.png);
+<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100),url(images/new/05.jpg);
     background-size: cover;
     background-position: top;">
 <div class="overlay"></div>
