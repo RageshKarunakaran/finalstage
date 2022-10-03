@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js">
 </head>
 <body>
 <?php include('header.php') ?>
