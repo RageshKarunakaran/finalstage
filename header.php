@@ -98,7 +98,7 @@
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Internship </a>
                   <ul class="dropdown-menu">
                      <li><a class="dropdown-item" href="national.php"> National </a></li>
-                     <li><a class="dropdown-item" href="interNational.php"> InterNational </a></li>
+                     <li><a class="dropdown-item" href="international.php"> InterNational </a></li>
             </ul>
           </li>
           <li class="nav-item"><a class="nav-link" href="accreditation.php">Accreditation & Affiliation
@@ -106,7 +106,7 @@
 <li class="nav-item"><a class="nav-link" href="./#faculty">Team</a></li>
 <li class="nav-item"><a class="nav-link" href="finance.php">Finance</a></li>
 <li class="nav-item"><a class="nav-link" href="volunteer-models.php">Volunteer Models</a></li>
-<li class="nav-item"><a class="nav-link" href="#">Membership</a></li>
+<!-- <li class="nav-item"><a class="nav-link" href="#">Membership</a></li> -->
 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Login </a>
                   <ul class="dropdown-menu">

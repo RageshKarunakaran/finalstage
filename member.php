@@ -14,20 +14,20 @@
 </head>
 <body>
 <?php include('header.php') ?>
-<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100),url(images/new/12.jpg);
+<section class="hero-wrap hero-wrap-2" style="background: linear-gradient(45deg, #05d8ff4d, #9ebbc100);
     background-size: cover;
     background-position: top;">
 <div class="overlay"></div>
 <div class="container">
 <div class="row no-gutters slider-text align-items-center justify-content-start">
-<div class="col-md-7 pt-5 mt-5 text-left">
+<div class="col-lg-6 pt-5 mt-5 text-left">
 
 <h1 class="mb-0 bread">Membership</h1>
 </div>
 
-<!-- <div class="col-md-5 pt-5 mt-5 text-center">
-   <img src="images/appointment.png">
-</div> -->
+<div class="col-lg-6 text-center">
+<img src="images/new_1/9.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
+    </div>
 
 </div>
 </div>

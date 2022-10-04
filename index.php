@@ -245,7 +245,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr.Surindher D.S.A</a></h4>
                            <span>Consultant Plastic Surgeon</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/Dubai.jpg"></span>
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -268,9 +271,11 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                            <img src="images/5.png" alt="instructor-profile">
                         </div>
                         <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere Paolo Rovatti</a></h4>
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere {aolo Rovatti</a></h4>
                            <span>Plastic Surgeon</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/Italy.png"></span>
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -295,7 +300,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Nathalie Domloj</a></h4>
                            <span>Aesthetic Dermatologist</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/Dubai.jpg"></span>
+                            
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -320,7 +328,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Poonam Patel</a></h4>
                            <span>M.B.E.H Cosmetologist, Trichologist</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -345,7 +356,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Hala Salah Giha</a></h4>
                            <span>Plastic Surgeon</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/Dubai.jpg"></span>
+                            
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -371,7 +385,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         <div class="tp-instructor__content">
                            <span>Board of Director, Edu-Med <br>Bariatric Surgeon
 </span>
-                           
+                         <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>  
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -398,6 +415,10 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                            <span>Board of Director, <br>
 Chief Aesthetic Physician
 </span>
+<div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                            
                           
                            <div class="tp-instructor__social">
@@ -425,6 +446,10 @@ Chief Aesthetic Physician
                            <span>Medical Aesthetic Consultant <br>
 (Board verified with AAAM certified )
 </span>
+<div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/UK.png"></span>
+                            
+                           </div>
                            
                           
                            <div class="tp-instructor__social">
@@ -450,7 +475,9 @@ Chief Aesthetic Physician
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Sonia</a></h4>
                            <span>Dermatologist, Trichologist, Cosmetologist & Author</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -478,6 +505,10 @@ Chief Aesthetic Physician
 Mentor & Trainer
 
 </span>
+<div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                            
                           
                            <div class="tp-instructor__social">
@@ -503,7 +534,10 @@ Mentor & Trainer
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Sharad Mishra</a></h4>
                            <span> Author & Plastic Surgeon</span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -529,7 +563,10 @@ Mentor & Trainer
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Syed Mohd Aqibuddin</a></h4>
                            <span>Cosmetologist & Aesthetic Medicine </span>
-                           
+                           <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                           
                            <div class="tp-instructor__social">
                               <ul>
@@ -557,6 +594,10 @@ Mentor & Trainer
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Shuba Dharmana</a></h4>
                            <span>Aesthetic Doctor (AAAM certified), Hair Transplant Surgeon
 </span>
+                              <div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                            
                           
                            <div class="tp-instructor__social">
@@ -583,6 +624,10 @@ Mentor & Trainer
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Muzammil Nawaz</a></h4>
                            <span>Aesthetic Doctor & Trainer<br> Dental Surgeon
 </span>
+<div class="d-flex align-items-center justify-content-center">
+                            <span class="flag"><img src="images/flag/India.png"></span>
+                            
+                           </div>
                            
                           
                            <div class="tp-instructor__social">

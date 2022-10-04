@@ -5971,3 +5971,8 @@ input.input-field, textarea, select {
     z-index: 3;
     padding: 0;
 }
+.tp-instructor__content .flag img{
+  width: 40px!important;
+  height: auto;
+  margin: 5px 15px;
+}
