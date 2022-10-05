@@ -45,9 +45,9 @@
                         <div class="col-md-10 heading-section aos-init aos-animate" data-aos="fade-up">
 <!-- <span class="tp-sub-title-box mb-1">1 to 1 training</span> -->
 </div>
-<div class="d-flex justify-content-start align-items-center">
+<div class="d-flex justify-content-between align-items-center">
 <h2>MASTERS - 1YEAR (3 SEMESTER) </h2>
- <a href="images/whitepaper/master.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
+ <a href="#contact" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
  </div>
 <h5>Masters in Aesthetic Medicine &amp; Hair Science</h5>
 <p>1st Semester: 2 Months Theory + 15days Hands on</p>
@@ -57,6 +57,7 @@
 <p>Thesis - 30days</p>
 <p>(Lectures, Panel discussion &amp; Live Surgery)</p>
 
+ <a href="images/whitepaper/Masters in Aesthetic Medicine & Hair Science.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-down"></span></a>
 
 
                      </div>

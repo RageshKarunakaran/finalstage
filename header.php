@@ -64,8 +64,8 @@
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
                            <li><a class="dropdown-item" href="pg.php">PG Diploma Facial Aesthetics & Reconstruction</a></li>
-            <li><a class="dropdown-item" href="pg.php">PG Diploma In Clinical Cosmetology & Advance </a></li>
-            <li><a class="dropdown-item" href="pg.php">PG Diploma Medical Trichology & Hair Transplant </a></li>
+            <li><a class="dropdown-item" href="pg-1.php">PG Diploma In Clinical Cosmetology & Advance </a></li>
+            <li><a class="dropdown-item" href="pg-2.php">PG Diploma Medical Trichology & Hair Transplant </a></li>
                                                       
                         </ul>
                      </li>
@@ -74,7 +74,7 @@
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
             <li><a class="dropdown-item" href="fellowship.php">Fellowship In Aesthetic Medicine & Skin Lasers</a></li>
-            <li><a class="dropdown-item" href="fellowship.php">Fellowship In Medical Trichology (Clinical & Cosmetic) </a></li>
+            <li><a class="dropdown-item" href="fellowship-1.php">Fellowship In Medical Trichology (Clinical & Cosmetic) </a></li>
                                                       
                         </ul>
                      </li>
@@ -98,7 +98,7 @@
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Internship </a>
                   <ul class="dropdown-menu">
                      <li><a class="dropdown-item" href="national.php"> National </a></li>
-                     <li><a class="dropdown-item" href="international.php"> InterNational </a></li>
+                     <li><a class="dropdown-item" href="international.php"> International </a></li>
             </ul>
           </li>
           <li class="nav-item"><a class="nav-link" href="accreditation.php">Accreditation & Affiliation

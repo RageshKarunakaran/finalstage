@@ -21,7 +21,7 @@
 <div class="row no-gutters slider-text align-items-center justify-content-start">
 <div class="col-lg-6 pt-5 mt-5 text-left">
 
-<h1 class="mb-0 bread">1 to 1 Training</h1>
+<h1 class="mb-0 bread">Exclusive Training</h1>
 </div>
 
 <div class="col-lg-6 text-center">
@@ -44,7 +44,7 @@
                   <div class="tp-about-class-content mb-4 ml-75">
                      <div class="section-title mb-35">
                         <div class="col-md-10 heading-section aos-init aos-animate" data-aos="fade-up">
-<span class="tp-sub-title-box mb-1">1 to 1 training</span>
+<span class="tp-sub-title-box mb-1">Exclusive Training</span>
 <h2 class="mb-2">If you are looking for 1-1 private training then you have to the right place. </h2>
 </div>
 

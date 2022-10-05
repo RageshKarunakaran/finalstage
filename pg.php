@@ -48,24 +48,16 @@
 
 
 </div>
-<div class="d-flex justify-content-start align-items-center">
+<div class="d-flex justify-content-between align-items-center">
 <h2 class="mb-2">PG DIPLOMA – 6MONTHS (2 SEMESTER)</h2>
- <a href="images/whitepaper/pg-diploma.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
+<a href="#contact" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
  </div>
 <h4>PG Diploma Facial Aesthetics &amp; Reconstruction</h4>
-<h4>PG Diploma in Clinical Cosmetology &amp; Advance</h4>
-<h4>LASERS PG Diploma Medical Trichology &amp; Hair
-Transplant</h4>
-
-<p>1st Semester: 2 Months (Theory + 15days Hands on)</p>
-<p>2nd Semester: 2 Months (Theory + 15days Hands on)</p>
-<p>Internship &amp; Log book – 2 Months</p>
-<p>(Lectures, Panel discussion &amp; Live Surgery)</p>
-<p>PG DIPLOMA FACIAL AESTHETICS &amp; RECONSTRUCTION</p>
 <p>SEM I - 2mnths Theory + 15days Practical</p>
 <p>SEM II - 2mnths Theory + 15days Practical</p>
 <p>Internship - 1Mnth</p>
-
+<p>(Lectures, Panel discussion &amp; Live Surgery)</p>
+ <a href="images/whitepaper/PG Diploma Facial Aesthetics & Reconstruction.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-forward"></span></a>
                      </div>
                     
                   </div>

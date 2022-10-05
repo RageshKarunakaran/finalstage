@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Fellowship</title>
+<title>PG Diploma</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -21,13 +21,12 @@
 <div class="row no-gutters slider-text align-items-center justify-content-start">
 <div class="col-lg-6 pt-5 mt-5 text-left">
 
-<h1 class="mb-0 bread">Fellowship</h1>
+<h1 class="mb-0 bread">PG Diploma</h1>
 </div>
 
 <div class="col-lg-6 text-center">
-<img src="images/new/6.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
+<img src="images/new/7.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
     </div>
-
 
 </div>
 </div>
@@ -50,13 +49,15 @@
 
 </div>
 <div class="d-flex justify-content-between align-items-center">
-<h2 class="mb-2">FELLOWSHIP – 1MONTH (Theory + 15days Hands on)</h2>
+<h2 class="mb-2">PG DIPLOMA – 6MONTHS (2 SEMESTER)</h2>
 <a href="#contact" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
  </div>
-<h4>FELLOWSHIP IN AESTHETIC MEDICINE & SKIN LASERS</h4>
-<p>1Mnth Theory + 15days Hands</p>
-<!-- <p>(Lectures, Panel discussion &amp; Live Surgery)</p> -->
- <a href="images/whitepaper/FELLOWSHIP IN AESTHETIC MEDICINE & SKIN LASERS.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-forward"></span></a>
+<h4>PG DIPLOMA MEDICAL TRICHOLOGY & HAIR TRANSPLANT</h4>
+<p>SEM I - 2mnths Theory +15days Hands on</p>
+<p>SEM II - 2mnths Theory +15days Hands on</p>
+<p>Internship- 1Mnth</p>
+<p>(Lectures, Panel discussion &amp; Live Surgery)</p>
+ <a href="images/whitepaper/PG Diploma Medical Trichology & Hair Transplant.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-forward"></span></a>
                      </div>
                     
                   </div>
