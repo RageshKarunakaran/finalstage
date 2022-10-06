@@ -383,7 +383,7 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         </div>
                         <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Raj Palaniappan</a></h4>
                         <div class="tp-instructor__content">
-                           <span>Board of Director, Edu-Med <br>Bariatric Surgeon
+                           <span>Bariatric Surgeon
 </span>
                          <div class="d-flex align-items-center justify-content-center">
                             <span class="flag"><img src="images/flag/India.png"></span>
@@ -412,8 +412,7 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                         </div>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Nikita Victoria</a></h4>
-                           <span>Board of Director, <br>
-Chief Aesthetic Physician
+                           <span>Chief Aesthetic Physician
 </span>
 <div class="d-flex align-items-center justify-content-center">
                             <span class="flag"><img src="images/flag/India.png"></span>
@@ -984,6 +983,34 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                             </div>
                         </div>
     </div>
+     <div class="item">
+ <div class="course-wrapper white-bg mb-30">
+                            <div class="course-inner">
+                                <div class="course-img pos-rel mb-25">
+                                    <a href="#"><img src="images/f4.png" alt=""></a>
+                                    
+                                </div>
+                                <div class="course-text">
+                                    
+                                    <h4 class="semi-title pb-30 mb-2"><a href="#">Cosmetology Assistant
+</a></h4>
+
+                                    
+                                </div>
+                            </div>
+                            <div class="course-text course-text-02 theme-bg">
+                                
+                                <h4 class="semi-title mb-1"><a href="#">Cosmetology Assistant</a></h4>
+      
+                                    <a class="c-btn mb-4" href="#">get enrolled <i class="fa fa-arrow-right"></i></a>
+                                <!-- <div class="course-meta">
+                                    <span><i class="fa fa-users"></i> <a href="#">25</a></span>
+                                    <span><i class="fa fa-book"></i> <a href="#">36hr</a></span>
+                                    <span><i class="fa fa-book"></i> <a href="#">2.5k</a></span>
+                                </div> -->
+                            </div>
+                        </div>
+    </div>
 </div>
 
 
@@ -1172,25 +1199,6 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
 
 
 
-
-
-
-<!-- <div class="body--container">
-  <div class="texttest">"Sample Company is the best service I could have asked for."</div>
-  <div class="bubble--container">
-    <div class="bubble bubble--large"></div>
-    <div class="bubble bubble--one"></div>
-    <div class="bubble bubble--two"></div>
-    <div class="bubble bubble--three"></div>
-  </div>
-</div> -->
-
-
-
-
-
-
-
 <section class="ftco-section suitable-area pb-90 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp; background: url(images/shape-bg-1.png);">
          <div class="container">
             <div class="row justify-content-center pb-5">
@@ -1207,7 +1215,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                         <h4 class="tp-suit__title">Do you want to <span>Learn</span> here?</h4>
                         <p>Be a certified aesthetic practitioner by Joining us.</p>
                         <div class="tp-suit__btn pt-5">
-                           <a href="#contact" class="btn btn-primary p-4 py-3">Join Now! <span class="ion-ios-arrow-round-forward"></span></a>
+                           <a href="#login-form" class="btn btn-primary p-4 py-3">Join Now! <span class="ion-ios-arrow-round-forward"></span></a>
                         </div>
                      </div>
                      <div class="tp-suit__img">
@@ -1221,7 +1229,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
                         <h4 class="tp-suit__title">Do you want to <span>Teach</span> here?</h4>
                         <p>If you want to be a part of our faculty click the link below.</p>
                         <div class="tp-suit__btn pt-5">
-                          <a href="#contact" class="btn btn-primary p-4 py-3">Join Now! <span class="ion-ios-arrow-round-forward"></span></a>
+                          <a href="#login-form" class="btn btn-primary p-4 py-3">Join Now! <span class="ion-ios-arrow-round-forward"></span></a>
                         </div>
                      </div>
                      <div class="tp-suit__tech">
@@ -1232,8 +1240,6 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
             </div>
          </div>
       </section>
-
-
 
 <?php include('footer.php') ?>
 

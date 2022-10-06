@@ -40,19 +40,19 @@
          <div class="container">
             <div class="row align-items-center">
            
-               <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-12">
+               <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-12">
                   <div class="tp-about-class-content mb-4 ml-75">
                      <div class="section-title mb-35">
-                        <div class="col-md-10 heading-section aos-init aos-animate" data-aos="fade-up">
-<!-- <span class="tp-sub-title-box mb-1">1 to 1 training</span> -->
+                        <div class="row">
+                           <div class="col-lg-8">
+                              <h2 class="mb-2">PG DIPLOMA – 6MONTHS (2 SEMESTER)</h2>
+                           </div>
+                           <div class="col-lg-4 text-center">
+                              <a href="#contact" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
+                           </div>
+                        </div>
 
-
-</div>
-<div class="d-flex justify-content-between align-items-center">
-<h2 class="mb-2">PG DIPLOMA – 6MONTHS (2 SEMESTER)</h2>
-<a href="#contact" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
- </div>
-<h4>PG DIPLOMA MEDICAL TRICHOLOGY & HAIR TRANSPLANT</h4>
+<h4 class="c_title">PG DIPLOMA MEDICAL TRICHOLOGY & HAIR TRANSPLANT</h4>
 <p>SEM I - 2mnths Theory +15days Hands on</p>
 <p>SEM II - 2mnths Theory +15days Hands on</p>
 <p>Internship- 1Mnth</p>

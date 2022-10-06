@@ -3,7 +3,7 @@
 <div class="row">
 <div class="col-md col-xl-12 d-flex align-items-center">
 <a class="navbar-brand align-items-center" href="./">
-<img src="images/edu-med Logo.png" width="150px">
+<img src="images/final_logo.png" width="150px">
 </a>
 </div>
 <!-- <div class="col-md d-flex align-items-center">
@@ -79,7 +79,7 @@
                         </ul>
                      </li>
                      <li>
-                        <a class="dropdown-item" href="certificate.php"> Certificate Courses<strong class="float-end">»</strong>  </a>
+                        <a class="dropdown-item" href="certificate.php"> Certificate Courses<strong class="float-end"> »</strong>  </a>
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
             <li><a class="dropdown-item" href="certificate.php">Certificate in Trichology </a></li>
@@ -89,6 +89,9 @@
             <li><a class="dropdown-item" href="certificate.php">Certificate in Skin LASERS</li></a></li>
                                                       
                         </ul>
+                     </li>
+                      <li>
+                        <a class="dropdown-item" href="cosmetology-assistant.php"> Cosmetology Assistant<strong class="float-end"></strong>  </a>
                      </li>
                   </ul>
                </li>

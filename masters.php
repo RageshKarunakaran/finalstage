@@ -42,14 +42,16 @@
                <div class="col-xxl-10 col-xl-10 col-lg-10 col-md-12 col-12">
                   <div class="tp-about-class-content mb-4 ml-75">
                      <div class="section-title mb-35">
-                        <div class="col-md-10 heading-section aos-init aos-animate" data-aos="fade-up">
-<!-- <span class="tp-sub-title-box mb-1">1 to 1 training</span> -->
-</div>
-<div class="d-flex justify-content-between align-items-center">
-<h2>MASTERS - 1YEAR (3 SEMESTER) </h2>
- <a href="#contact" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
- </div>
-<h5>Masters in Aesthetic Medicine &amp; Hair Science</h5>
+                       <div class="row">
+                           <div class="col-lg-8">
+                              <h2 class="mb-2">MASTERS - 1YEAR (3 SEMESTER)</h2>
+                           </div>
+                           <div class="col-lg-4 text-center">
+                              <a href="#contact" class="btn btn-primary  p-4 py-3 ms-2">Pay Online<span class="ion-ios-arrow-round-forward"></span></a>
+                           </div>
+                        </div>
+
+<h5 class="c_title">Masters in Aesthetic Medicine &amp; Hair Science</h5>
 <p>1st Semester: 2 Months Theory + 15days Hands on</p>
 <p>2nd Semester: 2 Months Theory + 15days Hands on</p>
 <p>3rd Semester: 2 Months Theory + 15days Hands</p>

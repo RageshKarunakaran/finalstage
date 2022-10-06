@@ -261,6 +261,8 @@ input.input-field, textarea, select {
             <option value="9">Certificate in Anti –ageing & Skin Ceuticals</option>
             <option value="10">Certificate in Micro blading & Micro needling </option>
             <option value="11">Certificate in Skin Lasers</option>
+            <option value="12">Cosmetology Assistant</option>
+            <option value="13">Internship</option>
 
                         </select>
                         </div>
@@ -391,7 +393,7 @@ input.input-field, textarea, select {
 <div class="ftco-footer-widget mb-4">
 <h2 class="ftco-heading-2 logo d-flex">
 <a class="navbar-brand align-items-center" href="index.html">
-<img src="images/edu-med Logo.png" width="250px">
+<img src="images/final_logo.png" width="250px">
 </a>
 </h2>
 <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
