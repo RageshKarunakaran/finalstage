@@ -25,7 +25,7 @@
 </div>
 
 <div class="col-lg-6 text-center">
-<img src="images/new/1.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
+<img src="images/new_1/12.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
     </div>
 
 </div>

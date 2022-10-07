@@ -987,7 +987,7 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
  <div class="course-wrapper white-bg mb-30">
                             <div class="course-inner">
                                 <div class="course-img pos-rel mb-25">
-                                    <a href="#"><img src="images/f4.png" alt=""></a>
+                                    <a href="#"><img src="images/cos.png" alt=""></a>
                                     
                                 </div>
                                 <div class="course-text">

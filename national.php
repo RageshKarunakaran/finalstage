@@ -19,14 +19,14 @@
 <div class="overlay"></div>
 <div class="container">
 <div class="row no-gutters slider-text align-items-center justify-content-start">
-<div class="col-md-7 pt-5 mt-5 text-left">
+<div class="col-lg-6 pt-5 mt-5 text-left">
 
 <h1 class="mb-0 bread">National</h1>
 </div>
 
-<!-- <div class="col-md-5 pt-5 mt-5 text-center">
-   <img src="images/appointment.png">
-</div> -->
+<div class="col-lg-6 text-center">
+<img src="images/new_1/10.png" class="img-fluid d-md-none" style="filter: drop-shadow(22px -18px 17px #24222275);">
+    </div>
 
 </div>
 </div>

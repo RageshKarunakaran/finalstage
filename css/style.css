@@ -2492,6 +2492,9 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.h1,.h2,.h3,.h4,.h5 {
   .top-wrap .social-media {
     margin: 0 auto;
   }
+  .top-wrap {
+  background: linear-gradient(45deg, rgb(49 132 253 / 50%), #8cf3ce)!important;
+}
 }
 
 @media (max-width:575.98px) {
