@@ -398,10 +398,10 @@ input.input-field, textarea, select {
 </h2>
 <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
 <ul class="ftco-footer-social list-unstyled mt-2">
-<li><a href="https://twitter.com/Edumedofficial"><span class="fa fa-twitter"></span></a></li>
-<li><a href="https://www.facebook.com/Edu-Med-109462011924334"><span class="fa fa-facebook"></span></a></li>
-<li><a href="https://www.instagram.com/edumedofficial/"><span class="fa fa-instagram"></span></a></li>
-<li><a href="https://www.linkedin.com/in/edu-med-037401251/"><span class="fa fa-linkedin"></span></a></li>
+<li><a href="https://twitter.com/DrEdumed?t=G6GNL7ZQzmOPee6rnqJTTQ&s=09"><span class="fa fa-twitter"></span></a></li>
+<li><a href="https://www.facebook.com/people/Dr-EduMed/100086190526106/"><span class="fa fa-facebook"></span></a></li>
+<li><a href="https://www.instagram.com/dredumed/?igshid=YmMyMTA2M2Y%3D"><span class="fa fa-instagram"></span></a></li>
+<li><a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFZilOMiWOrHQAAAYO2rXbINHT7tv45P5sNJjzCghe-mglRRbErQFFfD_ILaL_Gecg-mX5JMKrPKDk6Exqt7hRdaIJ6H6u9CzdJKKV5QrRJwFJm4aWYkCP19uCqMi28gdlYiUg=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fedumed-bangalore%2F"><span class="fa fa-linkedin"></span></a></li>
 
 </ul>
 </div>
@@ -422,7 +422,7 @@ input.input-field, textarea, select {
 <h2 class="ftco-heading-2">Quick Links</h2>
 <ul class="list-unstyled">
 <li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Contact Us</a></li>
-<li><a href="#"><span class="ion ion-ios-arrow-round-forward me-2"></span>Privacy</a></li>
+<li><a href="privacy-policy.php"><span class="ion ion-ios-arrow-round-forward me-2"></span>Privacy</a></li>
 <li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Feedbacks</a></li>
 <li><a href="./#contact"><span class="ion ion-ios-arrow-round-forward me-2"></span>Blog</a></li>
 

@@ -271,7 +271,7 @@ for medical freshers and doctors who strive to excel in aesthetic medicine.</p>
                            <img src="images/5.png" alt="instructor-profile">
                         </div>
                         <div class="tp-instructor__content">
-                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere {aolo Rovatti</a></h4>
+                            <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Piere Paolo Rovatti</a></h4>
                            <span>Plastic Surgeon</span>
                            <div class="d-flex align-items-center justify-content-center">
                             <span class="flag"><img src="images/flag/Italy.png"></span>

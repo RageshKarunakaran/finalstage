@@ -26,10 +26,10 @@
 </div>
 <div class="social-media">
 <p class="mb-0 d-flex">
-<a href="https://www.facebook.com/Edu-Med-109462011924334" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-<a href="https://twitter.com/Edumedofficial" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-<a href="https://www.instagram.com/edumedofficial/" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-<a href="https://www.linkedin.com/in/edu-med-037401251/" class="d-flex align-items-center justify-content-center"><span class="fa fa-linkedin"><i class="sr-only">LinkedIn </i></span></a>
+<a href="https://www.facebook.com/people/Dr-EduMed/100086190526106/" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
+<a href="https://twitter.com/DrEdumed?t=G6GNL7ZQzmOPee6rnqJTTQ&s=09" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+<a href="https://www.instagram.com/dredumed/?igshid=YmMyMTA2M2Y%3D" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+<a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFZilOMiWOrHQAAAYO2rXbINHT7tv45P5sNJjzCghe-mglRRbErQFFfD_ILaL_Gecg-mX5JMKrPKDk6Exqt7hRdaIJ6H6u9CzdJKKV5QrRJwFJm4aWYkCP19uCqMi28gdlYiUg=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fedumed-bangalore%2F" class="d-flex align-items-center justify-content-center"><span class="fa fa-linkedin"><i class="sr-only">LinkedIn </i></span></a>
 </p>
 </div>
 </div>
