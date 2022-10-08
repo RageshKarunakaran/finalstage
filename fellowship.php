@@ -54,7 +54,7 @@
                         </div>
 
 <h4 class="c_title">FELLOWSHIP IN AESTHETIC MEDICINE & SKIN LASERS</h4>
-<p>1Mnth Theory + 15days Hands</p>
+<p>1Month Theory + 15days Hands</p>
 <!-- <p>(Lectures, Panel discussion &amp; Live Surgery)</p> -->
  <a href="images/whitepaper/FELLOWSHIP IN AESTHETIC MEDICINE & SKIN LASERS.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-forward"></span></a>
                      </div>
