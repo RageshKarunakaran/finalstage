@@ -4774,7 +4774,9 @@ section.tp-about-area.pt-5.pb-5.wow.fadeInUp {
     top: 10%;
     right: 10%;
 }
-
+.service-shapes img{
+  z-index: -1;
+}
 .service-shapes .vec1, .service-shapes .vec2, .team-shapes .vec1, .team-shapes .vec2 {
     position: absolute;
     bottom: 0;

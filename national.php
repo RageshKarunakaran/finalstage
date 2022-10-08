@@ -77,7 +77,7 @@ An internship is the perfect opportunity to explore future career options, and t
       <div class="col-md-8 col-sm-12 col-xs-12 cta-rewamped-texter">
          <h4>READY TO APPLY?
          </h4>
-         <p>CLICK ON THE BUTTON TO FILL OUT EDUMED’S MODEL APPLICATION FORM </p>
+         <p>CLICK ON THE BUTTON TO FILL OUT OUR NATIONAL INTERNSHIP APPLICATION FORM </p>
           
            
       </div>

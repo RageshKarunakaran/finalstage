@@ -73,6 +73,14 @@
 <li>Tattoo/Mole Removal</li>
 </ul>
 
+<p>Models are necessary for our training in hair restoration and transplant.</p>
+
+
+<p>Our hair restoration transplant training follows the EduMed approach and is created for healthcare professionals with medical degrees, such as fully licenced doctors. These classes are under the supervision of our EduMed cosmetic transplant surgeons, who know you will be in good hands during the procedure. Not to mention the significant financial advantages of modeling.</p>
+
+
+<p>You will first receive a quick consultation to go over the best course of action for your particular situation. After which, we shall determine which service is ideal for you.</p>
+
                      </div>
                     
                   </div>

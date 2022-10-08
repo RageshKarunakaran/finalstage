@@ -52,7 +52,7 @@
                   <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"> Courses </a>
                   <ul class="dropdown-menu">
                                           <li>
-                        <a class="dropdown-item" href="masters.php"> Masters <strong class="float-end">»</strong>  </a>
+                        <a class="dropdown-item" href=""> Masters <strong class="float-end">»</strong>  </a>
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
                            <li><a class="dropdown-item" href="masters.php">Masters In Aesthetic Medicine & Hair Science</a></li>
@@ -60,17 +60,17 @@
                         </ul>
                      </li>
                       <li>
-                        <a class="dropdown-item" href="pg.php"> PG Diploma <strong class="float-end">»</strong>  </a>
+                        <a class="dropdown-item" href=""> PG Diploma <strong class="float-end">»</strong>  </a>
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
                            <li><a class="dropdown-item" href="pg.php">PG Diploma Facial Aesthetics & Reconstruction</a></li>
-            <li><a class="dropdown-item" href="pg-1.php">PG Diploma In Clinical Cosmetology & Advance </a></li>
+            <li><a class="dropdown-item" href="pg-1.php">PG Diploma In Clinical Cosmetology & Advance LASERS</a></li>
             <li><a class="dropdown-item" href="pg-2.php">PG Diploma Medical Trichology & Hair Transplant </a></li>
                                                       
                         </ul>
                      </li>
                       <li>
-                        <a class="dropdown-item" href="fellowship.php"> Fellowship <strong class="float-end">»</strong>  </a>
+                        <a class="dropdown-item" href=""> Fellowship <strong class="float-end">»</strong>  </a>
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
             <li><a class="dropdown-item" href="fellowship.php">Fellowship In Aesthetic Medicine & Skin Lasers</a></li>
@@ -79,7 +79,7 @@
                         </ul>
                      </li>
                      <li>
-                        <a class="dropdown-item" href="certificate.php"> Certificate Courses<strong class="float-end"> »</strong>  </a>
+                        <a class="dropdown-item" href=""> Certificate Courses<strong class="float-end"> »</strong>  </a>
                         <!-- Drop Down -->
                         <ul class="submenu dropdown-menu">
             <li><a class="dropdown-item" href="certificate.php">Certificate in Trichology </a></li>

@@ -53,6 +53,9 @@
 <h2 class="mb-2">Membership</h2>
 </div>
 
+<h3>Why should you be our esteemed member?</h3>
+<p>a) Get exclusive Case Studies, Articles, Power points, Newsletters etc</p>
+<p>b) Access to multiple e-journals, surgery workshop videos, and other educational programs</p>
 
 <div class="form-modal">
 

@@ -45,7 +45,7 @@
                      <div class="section-title mb-35">
                         <div class="col-md-10 heading-section aos-init aos-animate" data-aos="fade-up">
 <span class="tp-sub-title-box mb-1">Exclusive Training</span>
-<h2 class="mb-2">If you are looking for 1-1 private training then you have to the right place. </h2>
+<h2 class="mb-2">If you are looking for Exclusive Training then you have to the right place. </h2>
 </div>
 
                         <p>At EduMed, we are aware that some of our delegates prefer the highest level of concentration when picking up new skills. For all of the practical modules we provide—as well as the complete courses—we are happy to inform you that we offer private, individual aesthetic training sessions with our expert trainers.

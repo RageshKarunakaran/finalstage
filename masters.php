@@ -59,7 +59,7 @@
 <p>Thesis - 30days</p>
 <p>(Lectures, Panel discussion &amp; Live Surgery)</p>
 
- <a href="images/whitepaper/Masters in Aesthetic Medicine & Hair Science.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-down"></span></a>
+ <a href="images/whitepaper/Masters in Aesthetic Medicine & Hair Science.pdf" target="_blank" class="btn btn-primary  p-4 py-3 ms-2">Download Syllabus<span class="ion-ios-arrow-round-forward"></span></a>
 
 
                      </div>
