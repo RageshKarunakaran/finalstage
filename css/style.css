@@ -5985,3 +5985,6 @@ h4.c_title{
       color: #1945a4;
     font-weight: 700;
 }
+.s_icons a img{
+  width: 60px;
+}

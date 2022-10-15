@@ -271,6 +271,18 @@ input.input-field, textarea, select {
                         <button type="button" class="btn signup">Submit</button>
                     </div>
 
+                        <div class="row social_login justify-content-center align-items-center mt-5">
+                            <div class="col-md-10 text-center">
+                                <h4 class="text-center">Or</h4>
+                                <hr>
+                                <div class="s_icons text-center">
+                                    <a href=""><img src="images/facebook.png"></a>
+                                    <a href=""><img src="images/google.png"></a>
+                                    <a href=""><img src="images/instagram.png"></a>
+
+                                </div>
+                            </div>
+                        </div>
         </form>
     </div>
 
