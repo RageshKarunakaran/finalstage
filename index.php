@@ -11,6 +11,13 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/js/bootstrap.min.js">
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "e4zn446mmh");
+</script>
 </head>
 <body>
 <?php include('header.php') ?>
@@ -591,7 +598,8 @@ Mentor & Trainer
                         </div>
                         <div class="tp-instructor__content">
                             <h4 class="tp-instructor__title tp-instructor__title-info p-relative mb-35 mt-1"><a href="">Dr. Shuba Dharmana</a></h4>
-                           <span>Aesthetic Doctor (AAAM certified), Hair Transplant Surgeon
+                           <span>Ex-General Practitioners(UK) <br>
+                            Aesthetic Doctor & Dermotologist Hair Transplant Surgeon   
 </span>
                               <div class="d-flex align-items-center justify-content-center">
                             <span class="flag"><img src="images/flag/India.png"></span>
@@ -1240,7 +1248,13 @@ Get a Masters Degree in Aesthetic Medicine and Hair Science with interactive lec
             </div>
          </div>
       </section>
-
+<form>
+<script src = "https://cdn.razorpay.com/static/widget/payment-button.js"
+data-payment_button_id = "pl_Jpb8JcRT3ITKIQ"
+data-button_text = "Buy Now"
+data-button_theme = "brand-color">
+</script>
+</form>
 <?php include('footer.php') ?>
 
 </body>
